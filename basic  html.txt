@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Basics</title>
+<body>
+<p style="background-color:yellow"; >paragragh1</p>
+<p style="background-color:blue";>paragraphs2</p> <p style="background-color:red";>paragraph3</p>
+</body>
+</html>+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
